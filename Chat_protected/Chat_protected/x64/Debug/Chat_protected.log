@@ -1,0 +1,7 @@
+﻿  Hash_table.cpp
+  program.cpp
+C:\Users\Daniil Arkhipov\source\Репозитории на github Skillfactory\Chat_protected\Chat_protected\Chat_protected\Chat.h(33,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "program.cpp")
+  
+  Создание кода...
+  Chat_protected.vcxproj -> C:\Users\Daniil Arkhipov\source\Репозитории на github Skillfactory\Chat_protected\Chat_protected\x64\Debug\Chat_protected.exe
